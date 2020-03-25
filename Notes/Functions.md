@@ -1,7 +1,7 @@
 ## Functions
 ---
 
-1. help() function - find what a function does
+1. help() function - find what a function does<br/>
                    - print takes sep as an argument, for example print("hello", "world", sep='>')
                    
 2. defining our own functions - def
