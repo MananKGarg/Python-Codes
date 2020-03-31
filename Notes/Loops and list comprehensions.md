@@ -46,6 +46,15 @@ range returns a sequence of numbers
         
         output - ['Venus', 'Earth', 'Mars']  
         
+str.upper() returns all caps version of a string
+
+        loud_short_planets = [planet.upper() + 'i' for planet in planets if len(planet) < 6]
+        loud_short_planets
+        
+        output
+        
+        ['VENUS!', 'EARTH!', 'MARS!']
+        
         
         
         
