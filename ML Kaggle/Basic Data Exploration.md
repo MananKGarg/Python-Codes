@@ -56,11 +56,10 @@ melbourne_data.dropna(axis = 0)
 ```
 
 There are many ways to select a subset of your data but we will focus on two approaches for now.
-<br>
+
 <br>
 * Dot notation, which we use to select the "prediction target"
 * Selecting with a column list, which we use to select the "features"
-
 <br>
 
 ### Selecting the Prediction Target
