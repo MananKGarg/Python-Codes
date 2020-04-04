@@ -23,7 +23,7 @@ Output:
 
 ```
 
-###Method 2: Sorting by the use of sort() method
+### Method 2: Sorting by the use of sort() method
 
 While sorting via this method the actual content of the tuple is changed, and just like the previous method, in-place method of sort is performed.
 
@@ -53,7 +53,7 @@ Output:
 
 ```
 
-###Method 3: Sorting by the use of sorted() method
+### Method 3: Sorting by the use of sorted() method
 
 Sorted() sorts a list and always returns a list with the elements in a sorted manner, without modifying the original sequence. It takes three parameters from which two are optional, here we tried to use all of the three:
 
