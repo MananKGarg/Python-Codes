@@ -4,6 +4,9 @@ output - Chris Alan<br>
 input - hello    world  lol<br>
 output - Hello    World  Lol<br>
 
+<br>
+This code also accounts for multiple spaces between names 
+
 ```python
 def solve(s):
     ram = s[0].upper()
